@@ -7,10 +7,10 @@ Unfortunatly, due to a big personal project, the owner does not have the time to
 ## Design
 There were made multiple designs before the Wordpress development began. The designs were made in Figma and can be viewed here:
 ### Homepage
-![My Image](mdResources/my-image.jpg)
+![My Image](mdResources/homePage.png)
 
 ### Newspage
-![My Image](mdResources/my-image.jpg)
+![My Image](mdResources/newsPage.png)
 
 ### Servicepage
-![My Image](mdResources/my-image.jpg)
+![My Image](mdResources/servicePage.png)
